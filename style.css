@@ -1,0 +1,51 @@
+
+/*============
+Common Section
+============*/
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Montserrat', sans-serif;;
+}
+img{
+  width: 100%;
+  height: auto;
+  display: block;
+}
+h1, h2, h3{
+  text-transform: capitalize;
+  font-weight: 800;
+}
+h1{
+  font-size: 70px;
+}
+h2{}
+h3{}
+
+.flex-area{
+  display: flex;
+  align-items: center;
+}
+.button-link{}
+.container-1{
+  width: 90%;
+  margin: 0 auto;
+}
+.container-2{}
+/*----------END----------*/
+
+
+/*=========
+Top Section
+=========*/
+.top-left{
+  width: 50%;
+}
+.top-right{
+  width: 50%;
+}
+.top-title{
+
+}
