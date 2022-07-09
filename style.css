@@ -145,8 +145,14 @@ Recipe Section
   box-shadow: 0 0 20px #cacaca;
   border-radius: 40px;
 }
-.recipe-items a img{
+.recipe-img{
+  overflow:hidden;
+}
+.recipe-img a img{
   border-radius: 25px;
+}
+.recipe-img a img:hover{
+  transform: scale(1.1);
 }
 .recipe-details{
  margin: 30px 0 55px;
