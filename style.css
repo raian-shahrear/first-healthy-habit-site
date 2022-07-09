@@ -110,10 +110,10 @@ About Section
   position: relative;
 }
 .about-items{
-  width: 30%;
+  width: 40%;
   position: absolute;
-  top: 25%;
-  left: 60%;
+  top: 30%;
+  left: 50%;
 }
 .about-title{
   margin-bottom: 30px;
